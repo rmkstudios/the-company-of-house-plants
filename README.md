@@ -1,6 +1,6 @@
 # The Comapny of House Plants
 
-This project was coded from the ground up in React to provide a clean and easy to use database of house plant information and care instructions. [Create React App](https://github.com/facebook/create-react-app).
+This project was coded from the ground up in React to provide a clean and easy to use database of house plant information and care instructions.
 
 No API existed for this information, so I compiled the information myself into a JSON file that is used as the database for this site. The source of the fantastic data was [House Plants Expert](https://www.houseplantsexpert.com/).
 
