@@ -1,4 +1,4 @@
-# The Comapny of House Plants
+# The Company of House Plants
 
 This project was coded from the ground up in React to provide a clean and easy to use database of house plant information and care instructions.
 
