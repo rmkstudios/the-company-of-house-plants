@@ -17,6 +17,6 @@ Navigation is taken care of using React Router Dom.
 
 Homepage fade animations are taken care of using React Animation On Scroll.
 
-## Final Thoughts
+## View My Portfolio
 
 You can see more of my projects on my portfolio: [Backed By Ryan](http://backedbyryan.com)
