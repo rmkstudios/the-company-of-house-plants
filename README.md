@@ -1,6 +1,6 @@
 # The Company of House Plants
 
-View the live site here: [The Company of House Plants](http://BackedByRyan.com/thecompanyofhouseplants)
+View the live site here: [The Company of House Plants](https://houseplants.backedbyryan.com/)
 
 This project was coded from the ground up in React to provide a clean and easy to use database of house plant information and care instructions.
 
